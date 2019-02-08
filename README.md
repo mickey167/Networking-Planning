@@ -1,13 +1,126 @@
 # Networking Planning
 Text Documents and Supporting Documents to begin to imagine classroom experiences and projects-based learning.
 
-What do we learning in Networking and recieve Industry-Level Certification for ...
-1. IT Essentials: able to remove the "Warentee Void IF Removed Sticker" (Grade 10 equilvalent)
-2. Introduction to Switches and Routers (CCNA, part 1 of 4), (Grade 11 equilvalent)
-3. Routing and Switching Essentials (CCNA, part 2 of 4), (Grade 11 equilvalent)
+Table of Contents
+- <a href="">Grading Notes and Projects</a>
+  - <a href="">Introduction to Cyber Security</a>
+  - <a href="">Introductory Networking - IT Essentials</a>
+- <a href="">Campus EPSB</a>
+- <a href="">Computer Pathways</a>
+
+---
+
+# Grading Notes and Projects
+
+## Networking Practicum
+
+NET 2950 NET Intermediate Practicum, Advanced Practicum Credit?
+
+Assessment List
+Performance Grade
+
+## Introduction to Cyber Security
+- Whole Class Activity and Submission, Lab 3.2.2.3 Discover Your Own Risky Behaviour
+- Ch 1 Labs
+  - Lab 1.2.1.3
+  - One of: Chrome Extension "Password Checkup Chrome Extension", Lab 1.2.2.5 What was Taken: Research Lab
+- Ch 3 Labs
+  - Lab 3.1.1.5 Create and Store Strong Passwords
+  - Lab 3.1.2.3 Backup Data to External Storage
+- Cisco Summary Grade
+- Cisco Grading Outline
+  - Assignments: 40%
+  - Final Exam: 60%
+
+## Introductory Networking - IT Essentials
+
+### NET 2020: Workstation Technology & Operations; No Prerequisite
+
+Cisco Ch 1 – 6
+
+Additional Assessments
+- Hard Drive Demo
+- Maxing the RAM
+- Journal of BIOS
+
+List of Assignments, with Lab and Ch References
+- Computer Components (Netbook Disassembly, Ch1)
+- Computer Disassembly and Assembly: Ch 2, 3
+- Hard Drives (RAID): CH 5
+- Operating Systems, Ch 5, 6, including Chapter 9 (with Android, iOS, & Ubuntu)
+- Installing Operating Systems & Maintenance: Ch 5, 6
+- Work Station Routines (type of workstation, persistence with setup for workflow), Ch 13
+
+### NET 2030: Network Structures; No Prerequisite
+
+Cisco 7 & 8
+
+List of Assignments, with Lab and Ch References
+Introduction to Networks
+Data Transmissions
+Network Design
+
+Packet Tracer 101 Used here?
+
+### NET 2040: Network Media & Devices; No Prerequisite
+
+Cisco Ch 7 & 8
+
+List of Assignments, with Lab and Ch References
+Ethernet Cables
+Network Devices
+Installing Network Components
+Packet Tracer
+
+Packet Tracer 101 Used here?
+
+### NET 2080: Laptops & Peripherals; No Prerequisite
+
+Cisco Laptop Ch, 9 & Printer Ch 11
+Additional Assessments
+Netbook or Laptop Teardown and component naming
+
+List of Assignments, with Lab and Ch References
+Laptop Repair
+Laptop Form & Function
+Printer Form and Function
+Printer Installation
+[Optional]Printer Troubleshooting
+
+
+### NET 2110: Telecommunications 1; No Prerequisite
+
+CH 7 & 8
+
+Combination of many chapters
+Assignments
+Comparison Project
+Main Project
+
+Optional: NET3100 – Network Media & Devices, Security (no pre-requisite)
+- Cisco IT Essentials, Ch 12
+
+---
+
+# Semester Planning
+
+## Campus EPSB
+- Introduction to Cyber Security (ABE Course?)
+- IT Essentials (Map ABE Courses a little better)
+
+## Computer Pathways
+- Introduction to Cyber Security
+- IT Essentials
+
+---
+
+What do we learning in Networking and receive Industry-Level Certification for ...
+1. IT Essentials: able to remove the "Warrantee Void IF Removed Sticker" (Grade 10 equivalent)
+2. Introduction to Switches and Routers (CCNA, part 1 of 4), (Grade 11 equivalent)
+3. Routing and Switching Essentials (CCNA, part 2 of 4), (Grade 11 equivalent)
 4. Ability to write CompTIA A+ exam through Pearsonview Testing Centers
 
-Applied Networking Appications: based on a serial connection between a microprocessor and microcontrollers
+Applied Networking Applications: based on a serial connection between a microprocessor and microcontrollers
 1. Based on the following Technologies
    - Raspberry Pi
    - Breadboarded Arduino, sensors, motors, leds, and other modules
@@ -38,5 +151,13 @@ Textbooks & Resources
   - Study Materials like cue cards and virtual activities
   - Virtual Labs with Packet Tracer (virtual home, buisness, and larger network learning tool)
   - Cisco Switch and Router based Labs using Cisco Equipement
-  - Assessment Materials like quizze, exams, practice finals, and final exams (including mutliple writing environment options) 
+  - Assessment Materials like quizze, exams, practice finals, and final exams (including mutliple writing environment options)
 - CompTIA A+ 220-901 & 220-902 Exam Cram Workbook and CD Resource, David Prowse, Pearson IT Certicfication
+
+---
+
+# To Include
+
+
+
+---
