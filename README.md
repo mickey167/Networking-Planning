@@ -3,8 +3,10 @@ Text Documents and Supporting Documents to begin to imagine classroom experience
 
 Table of Contents
 - <a href="">Grading Notes and Projects</a>
+  - <a href="">Networking Practicum</a>
   - <a href="">Introduction to Cyber Security</a>
   - <a href="">Introductory Networking - IT Essentials</a>
+  - <a href="">CCNA 1: Introduction to Networking</a>
 - <a href="">Campus EPSB</a>
 - <a href="">Computer Pathways</a>
 
@@ -12,12 +14,16 @@ Table of Contents
 
 # Grading Notes and Projects
 
+---
+
 ## Networking Practicum
 
 NET 2950 NET Intermediate Practicum, Advanced Practicum Credit?
 
 Assessment List
 Performance Grade
+
+---
 
 ## Introduction to Cyber Security
 - Whole Class Activity and Submission, Lab 3.2.2.3 Discover Your Own Risky Behaviour
@@ -31,6 +37,8 @@ Performance Grade
 - Cisco Grading Outline
   - Assignments: 40%
   - Final Exam: 60%
+
+---
 
 ## Introductory Networking - IT Essentials
 
@@ -97,8 +105,75 @@ Assignments
 Comparison Project
 Main Project
 
-Optional: NET3100 – Network Media & Devices, Security (no pre-requisite)
+### Optional: NET3100 – Network Media & Devices, Security (no pre-requisite)
 - Cisco IT Essentials, Ch 12
+- Introduction to Cyber Security Course
+
+## CCNA 1: Introduction to Networking
+
+---
+
+### NET2050: Open System Interconnection; No Prerequisite
+
+Summary of Curriculum
+- Students develop knowledge of the Open System Interconnection (OSI) reference model and its use as a conceptual framework for analyzing network communication tasks. They examine the OSI reference model characteristics, the functions of each of its seven layers and how data moves between layers of the reference model when computers establish a network connection.
+Primary focus should be on physical, data link, network and transport layers.
+
+Phrases of Curriculum
+
+List of Assignments, with Lab and Ch References
+
+ItN: Ch 1 – 4?
+
+### NET2060: Network Protocols; No Prerequisite
+
+Summary of Curriculum
+- Students acquire basic knowledge of upper-layer protocol suites that permit the networking of computers. They examine reasons for the extensive use of the Transmission Control Protocol/Internet Protocol (TCP/IP) in computer networks, and develop knowledge and skills relevant to installing, configuring and maintaining a TCP/IP client on a network.
+
+Phrases of Curriculum
+
+List of Assignments, with Lab and Ch References
+
+ItN: Ch 6, 7?
+
+### NET2070: Local Area Networks; No Prerequisite
+
+Summary of Curriculum
+- Students extend their understanding of technologies used in a local area network (LAN) and examine specifications for an Ethernet LAN. They develop knowledge of a general strategy for network design and apply the strategy to design, implement and troubleshoot a small LAN.
+
+Phrases of Curriculum
+
+List of Assignments, with Lab and Ch References
+
+ItN: Ch 5?
+
+### NET3100: Network Media & Devices, Security; No Prerequisite
+
+Note: Cisco IT Essentials, Ch 12
+
+Summary of Curriculum
+- Students develop an understanding of different connectivity strategies for linking computers and security devices in a local area network (LAN). They acquire knowledge of industry standards for network cables and gain practical experience through installing cabling, connectors and other hardware components.
+
+Phrases of Curriculum
+
+List of Assignments, with Lab and Ch References
+
+ItN: Chapter 11, 8-10?
+
+### NET3110: Telecommunications 2 (needs NET2110: Telecommunications 1)
+
+Summary of Curriculum
+- Students demonstrate knowledge of telecommunication systems by designing a new system. They use the Internet in researching and developing their design and for comparing and contrasting various telecommunication initiatives. Students analyze the effect this is having on the individual and society.
+
+Phrases of Curriculum
+
+List of Assignments, with Lab and Ch References
+
+ItN: Chapter 11, 8-10
+
+Also combined with Security Courses
+- Introduction to Cyber Security
+- Other???
 
 ---
 
