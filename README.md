@@ -2,13 +2,14 @@
 Text Documents and Supporting Documents to begin to imagine classroom experiences and projects-based learning.
 
 Table of Contents
-- <a href="">Grading Notes and Projects</a>
-  - <a href="">Networking Practicum</a>
-  - <a href="">Introduction to Cyber Security</a>
-  - <a href="">Introductory Networking - IT Essentials</a>
-  - <a href="">CCNA 1: Introduction to Networking</a>
-- <a href="">Campus EPSB</a>
-- <a href="">Computer Pathways</a>
+- <a href="https://github.com/MercersKitchen/Networking-Planning#grading-notes-and-projects">Grading Notes and Projects</a>
+  - <a href="https://github.com/MercersKitchen/Networking-Planning#networking-practicum">Networking Practicum</a>
+  - <a href="https://github.com/MercersKitchen/Networking-Planning#introduction-to-cyber-security">Introduction to Cyber Security</a>
+  - <a href="https://github.com/MercersKitchen/Networking-Planning#introductory-networking---it-essentials">Introductory Networking - IT Essentials</a>
+  - <a href="https://github.com/MercersKitchen/Networking-Planning#ccna-1-introduction-to-networking">CCNA 1: Introduction to Networking</a>
+- <a href="https://github.com/MercersKitchen/Networking-Planning#semester-planning">Semester Planning</a>
+  - <a href="https://github.com/MercersKitchen/Networking-Planning#campus-epsb">Campus EPSB</a>
+  - <a href="https://github.com/MercersKitchen/Networking-Planning#computer-pathways">Computer Pathways</a>
 
 ---
 
