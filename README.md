@@ -19,7 +19,7 @@ Table of Contents
 
 ## Networking Practicum
 
-NET 2950 NET Intermediate Practicum, Advanced Practicum Credit?
+NET: 2950 NET Intermediate Practicum, Advanced Practicum Credit?
 
 Assessment List
 Performance Grade
@@ -106,7 +106,7 @@ Assignments
 Comparison Project
 Main Project
 
-### Optional: NET3100 – Network Media & Devices, Security (no pre-requisite)
+### Optional: NET: 3100 Network Media & Devices, Security (no pre-requisite)
 - Cisco IT Essentials, Ch 12
 - Introduction to Cyber Security Course
 
