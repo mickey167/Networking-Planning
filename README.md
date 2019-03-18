@@ -112,6 +112,16 @@ Main Project
 
 ## CCNA 1: Introduction to Networking
 
+Develop this descriptions a lot more
+- Students do course 2 or 3 times (first time for content, second time for packet tracers, third time for labs)
+
+Courses for Gradebook
+NET 2050: Open System Interconnection; No Prerequisite
+NET 2060: Network Protocols; No Prerequisite
+NET 2070: Local Area Networks; No Prerequisite
+NET 3100: Network Media & Devices, Security; No Prerequisite
+NET 3110: Telecommunications 2
+
 ---
 
 ### NET2050: Open System Interconnection; No Prerequisite
