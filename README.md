@@ -15,6 +15,10 @@ Table of Contents
 
 # Grading Notes and Projects
 
+General Categories for Gradebook
+- Assessments
+- Classroom Work
+
 ---
 
 ## Networking Practicum
