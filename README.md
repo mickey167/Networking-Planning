@@ -58,7 +58,7 @@ Optional: NET3100 Network Media & Devices, Security (no pre-requisite)
 ---
 
 Below are Assignments,
-**NOTICE:** there is an assignments document in IT Essentials that is meant to be copied and pasted to Cisco's Gradebook 
+**NOTICE:** there is an assignments document in IT Essentials that is meant to be copied and pasted to Cisco's Gradebook
 
 ---
 
@@ -137,11 +137,11 @@ Develop this descriptions a lot more
 - Students do course 2 or 3 times (first time for content, second time for packet tracers, third time for labs)
 
 Courses for Gradebook
-NET2050: Open System Interconnection; No Prerequisite
-NET2060: Network Protocols; No Prerequisite
-NET2070: Local Area Networks; No Prerequisite
-NET3100: Network Media & Devices, Security; No Prerequisite
-NET3110: Telecommunications 2
+- NET2050: Open System Interconnection; No Prerequisite
+- NET2060: Network Protocols; No Prerequisite
+- NET2070: Local Area Networks; No Prerequisite
+- NET3100: Network Media & Devices, Security; No Prerequisite
+- NET3110: Telecommunications 2
 
 Might Need Project Credits
 
@@ -208,6 +208,16 @@ ItN: Chapter 11, 8-10
 Also combined with Security Courses
 - Introduction to Cyber Security
 - Other???
+
+---
+
+# CCNA 2: Routing Essentials
+
+NET3050: Network Operating Systems
+NET3060: Wide Area Networks
+NET3070: Routing Fundamentals
+NET3080: Internet Processes
+NET3090: Network Management
 
 ---
 
