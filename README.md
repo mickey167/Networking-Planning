@@ -47,6 +47,21 @@ Performance Grade
 
 ## Introductory Networking - IT Essentials
 
+NET2020: Workstation Technology & Operations; No Prerequisite
+NET2030: Network Structures; No Prerequisite
+NET2040: Network Media & Devices; No Prerequisite
+NET2080: Laptops & Peripherals; No Prerequisite
+NET2110: Telecommunications 1; No Prerequisite
+
+Optional: NET3100 Network Media & Devices, Security (no pre-requisite)
+
+---
+
+Below are Assignments,
+**NOTICE:** there is an assignments document in IT Essentials that is meant to be copied and pasted to Cisco's Gradebook 
+
+---
+
 ### NET 2020: Workstation Technology & Operations; No Prerequisite
 
 Cisco Ch 1 – 6
@@ -110,9 +125,11 @@ Assignments
 Comparison Project
 Main Project
 
-### Optional: NET: 3100 Network Media & Devices, Security (no pre-requisite)
+### Optional: NET 3100 Network Media & Devices, Security (no pre-requisite)
 - Cisco IT Essentials, Ch 12
 - Introduction to Cyber Security Course
+
+---
 
 ## CCNA 1: Introduction to Networking
 
@@ -125,6 +142,8 @@ NET2060: Network Protocols; No Prerequisite
 NET2070: Local Area Networks; No Prerequisite
 NET3100: Network Media & Devices, Security; No Prerequisite
 NET3110: Telecommunications 2
+
+Might Need Project Credits
 
 ---
 
