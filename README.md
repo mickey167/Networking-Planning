@@ -223,6 +223,8 @@ NET3090: Network Management
 
 # Semester Planning
 
+Setting up Laptops, <a href="https://docs.google.com/document/d/1dUoCMMVu5_heIRByWMSWiCUHOfPGoSzsjlihGkwUlOY/edit?usp=sharing">Click Here</a>
+
 ## Campus EPSB
 - Introduction to Cyber Security (ABE Course?)
 - IT Essentials (Map ABE Courses a little better)
