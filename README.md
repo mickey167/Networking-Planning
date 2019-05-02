@@ -279,6 +279,12 @@ Textbooks & Resources
 
 # To Include
 
+Changes for Skills Alberta Canada: go through this DOC (https://skillsalberta.com/sites/default/files/content_descriptions/ITNetwork_Sec_AV1_2019.pdf)
+- https://www.centos.org/
+- VMWare
+- 
+
+---
 2017 Program Descriptions: https://docs.google.com/document/d/1ho24LmDBKI2prGr7p8hmA39bWtD6xNWB57oO-7GrBcA/edit
 
 ---
