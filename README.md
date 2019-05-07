@@ -47,11 +47,12 @@ Performance Grade
 
 ## Introductory Networking - IT Essentials
 
-NET2020: Workstation Technology & Operations; No Prerequisite
-NET2030: Network Structures; No Prerequisite
-NET2040: Network Media & Devices; No Prerequisite
-NET2080: Laptops & Peripherals; No Prerequisite
-NET2110: Telecommunications 1; No Prerequisite
+ABE (CTS) Courses:
+- NET2020: Workstation Technology & Operations; No Prerequisite
+- NET2030: Network Structures; No Prerequisite
+- NET2040: Network Media & Devices; No Prerequisite
+- NET2080: Laptops & Peripherals; No Prerequisite
+- NET2110: Telecommunications 1; No Prerequisite
 
 Optional: NET3100 Network Media & Devices, Security (no pre-requisite)
 
@@ -282,7 +283,7 @@ Textbooks & Resources
 Changes for Skills Alberta Canada: go through this DOC (https://skillsalberta.com/sites/default/files/content_descriptions/ITNetwork_Sec_AV1_2019.pdf)
 - https://www.centos.org/
 - VMWare
-- 
+-
 
 ---
 2017 Program Descriptions: https://docs.google.com/document/d/1ho24LmDBKI2prGr7p8hmA39bWtD6xNWB57oO-7GrBcA/edit
