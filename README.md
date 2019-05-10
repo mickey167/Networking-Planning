@@ -294,6 +294,8 @@ Changes for Skills Alberta Canada: go through this DOC (https://skillsalberta.co
 ---
 
 Updates to Networking Competitive Program
+- https://github.com/QEHS-Networking/ITE-Lab-Progressions
+- https://github.com/QEHS-Networking/Packet-Tracer-Progressions
 
 Increase Use of Documentation
 - RAM Information: Type, Speed, Amount of Memory
