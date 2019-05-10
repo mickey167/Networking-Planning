@@ -293,12 +293,22 @@ Changes for Skills Alberta Canada: go through this DOC (https://skillsalberta.co
 
 ---
 
+Updates to Networking Competitive Program
+
+Increase Use of Documentation
+- RAM Information: Type, Speed, Amount of Memory
+- Hard Drive:
+- Circle This Handout: everyone
+- Write This Handout: skills or final teardown
+
+
+
+
 NetworkingCent OS
 Reading documentation of Hardrives, RAM, and powersupply, and mother board, type of processor
 All connector types on motherboard
 
-Circle This Handout: everyone
-Write This Handout: skills or final teardown
+
 
 Install VM Ware to Cyber Security Computers
 Pick ones with RAM
