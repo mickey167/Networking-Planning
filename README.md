@@ -6,7 +6,9 @@ Table of Contents
   - <a href="https://github.com/MercersKitchen/Networking-Planning#networking-practicum">Networking Practicum</a>
   - <a href="https://github.com/MercersKitchen/Networking-Planning#introduction-to-cyber-security">Introduction to Cyber Security</a>
   - <a href="https://github.com/MercersKitchen/Networking-Planning#introductory-networking---it-essentials">Introductory Networking - IT Essentials</a>
+    - Labs in ITE are essential (see To Include to view changes)
   - <a href="https://github.com/MercersKitchen/Networking-Planning#ccna-1-introduction-to-networking">CCNA 1: Introduction to Networking</a>
+    - PKAs are essential in ItN (see To Include to view changes)
 - <a href="https://github.com/MercersKitchen/Networking-Planning#semester-planning">Semester Planning</a>
   - <a href="https://github.com/MercersKitchen/Networking-Planning#campus-epsb">Campus EPSB</a>
   - <a href="https://github.com/MercersKitchen/Networking-Planning#computer-pathways">Computer Pathways</a>
@@ -286,6 +288,47 @@ Changes for Skills Alberta Canada: go through this DOC (https://skillsalberta.co
 -
 
 ---
+
 2017 Program Descriptions: https://docs.google.com/document/d/1ho24LmDBKI2prGr7p8hmA39bWtD6xNWB57oO-7GrBcA/edit
+
+---
+
+NetworkingCent OS
+Reading documentation of Hardrives, RAM, and powersupply, and mother board, type of processor
+All connector types on motherboard
+
+Circle This Handout: everyone
+Write This Handout: skills or final teardown
+
+Install VM Ware to Cyber Security Computers
+Pick ones with RAM
+
+
+Cable Connectors faulty?
+
+Need practice with packet tracer
+
+ItN: Checklist of PKAs and recording percentages completed
+Look at date modified, download from Cisco
+Create checklist per student, will influence grade
+
+
+Friday Ticket: us Cyber computers
+Example: configure static IP, Ping another computer and show result
+Solving support tickets based ITE Labs and ItN PKAs
+
+
+Use VM Ware and create snapshots that students need to fix
+Grading material?
+
+
+Networking competition
+Must do things from memory
+What is the list?
+ITE: Ch5&6 Labs (Windows, CentOS)
+ItN: PKAs
+Take out content reading,
+
+
 
 ---
