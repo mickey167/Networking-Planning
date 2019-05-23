@@ -197,6 +197,9 @@ List of Assignments, with Lab and Ch References
 
 ItN: Chapter 11, 8-10?
 
+Also combined with Security Courses
+- Introduction to Cyber Security
+
 ### NET3110: Telecommunications 2 (needs NET2110: Telecommunications 1)
 
 Summary of Curriculum
@@ -209,7 +212,7 @@ List of Assignments, with Lab and Ch References
 ItN: Chapter 11, 8-10
 
 Also combined with Security Courses
-- Introduction to Cyber Security
+- Introduction to Cyber Security?? (If not completed already)
 - Other???
 
 ---
