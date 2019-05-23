@@ -107,7 +107,7 @@ Packet Tracer 101 Used here?
 
 ### NET 2080: Laptops & Peripherals; No Prerequisite
 
-Cisco Laptop Ch, 9 & Printer Ch 11
+Cisco Laptop Ch 9, non-Windows OS Ch 10, & Printer Ch 11
 Additional Assessments
 Netbook or Laptop Teardown and component naming
 
