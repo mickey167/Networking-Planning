@@ -344,6 +344,16 @@ ITE: Ch5&6 Labs (Windows, CentOS)
 ItN: PKAs
 Take out content reading,
 
+---
 
+Linked In & Resume Writing Workshop
+
+General Outlines
+- Dexter (Microsoft), Introduction to Linked In
+- Mr. Mercer, Photo booth
+- Computronix (Evan), Introduction to How to Get a Job
+- Student time for Linked In Profile building and branding
+- Student time for asking questions to Microsoft & Computronix
+- Reviewing what to put into your profile, content is important
 
 ---
