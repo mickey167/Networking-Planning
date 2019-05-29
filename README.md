@@ -356,4 +356,8 @@ General Outlines
 - Student time for asking questions to Microsoft & Computronix
 - Reviewing what to put into your profile, content is important
 
+First Day: set this up, add skills, start a brand
+
+Day near end of semester: validate skills (by Mr. Mercer and group members)
+
 ---
