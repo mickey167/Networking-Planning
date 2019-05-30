@@ -361,3 +361,10 @@ First Day: set this up, add skills, start a brand
 Day near end of semester: validate skills (by Mr. Mercer and group members)
 
 ---
+
+Links for WireGuard Updating in GitHub
+- WireGuard Installation: https://github.com/QEHS-Networking/WireGuard-on-RPi
+- https://github.com/MercersKitchen/RPi-Unboxing
+-
+
+---
