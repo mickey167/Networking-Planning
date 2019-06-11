@@ -367,4 +367,8 @@ Links for WireGuard Updating in GitHub
 - https://github.com/MercersKitchen/RPi-Unboxing
 -
 
+https://www.eccouncil.org/
+
+https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
+
 ---
