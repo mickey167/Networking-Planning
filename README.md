@@ -380,7 +380,7 @@ Email to new ASC (Mark from Calgary ASC)
 - Instructions to change ASC: https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/phlandry/FMfcgxvzKbTbLfxzTPmkwgPsrmGBdmxJ
 
 Link from Gerald for Alberta Ed course outlines: https://docs.google.com/document/d/1g7jRLbdv7Hc6KblVsgllg6FfGhMAcfKlhYynjqreNm0/edit?ts=5d07dc42
-- Courses needed for Skills Alberta Cananda, listed 2019
+- Courses needed for Skills Alberta Canada, listed 2019
 - NET 2020, 2030, 2040, 2060, 2070, 3050, 3070, 3090, 3100
 
 Link to Course Resources: https://www.netacad.com/group/resources
