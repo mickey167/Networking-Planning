@@ -379,12 +379,24 @@ https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 
 Link from Gerald: https://docs.google.com/document/d/1g7jRLbdv7Hc6KblVsgllg6FfGhMAcfKlhYynjqreNm0/edit?ts=5d07dc42
 
+Link to Course Resources: https://www.netacad.com/group/resources
+- https://www.netacad.com/courses/all-courses
+
 New CCNA Course Information: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
 - URL Link to Introduction to, https://www.netacad.com/courses/security
-  - Introduction to Cybersecurity
+  - Introduction to Cybersecurity (2.1?)
+    - https://www.netacad.com/group/resources/cybersecurity/2.1
   - Cybersecurity Essentials, cool labs
+    - https://www.netacad.com/group/resources/cybersecurity-essentials/1.0
   - CCNA Cybersecurity Operations
   - CCNA Security
+
+Big Data and Analytics, self-enroll links (<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/phlandry/FMfcgxmZTvVCnwnNMbnHtqcFbLnmTnfm">
+email link</a>)
+  - Cisco Instructor Training for Big Data & Analytics 2.01: https://1040239.netacad.com/enroll/63AFER
+  - Cisco Instructor Training for Connecting Things 2.01: https://1040239.netacad.com/enroll/9CLCM8
+
+Python Course in Grade 11 CS: https://www.netacad.com/group/resources/programming-python/1.0
 
 Mickey has explored Netacad Features, rubrics
 
@@ -397,3 +409,5 @@ I also have a donation of 10+ Cisco Routers. Will I still have access  to the CC
 Will I have access to teach the new CCNA course? Honestly, I do not believe I will have enough time given all the certifications being combined. But, high school students can become familiar and, more importantly, perform better with study of specific topics
 
 How will the following three courses integrate themselves into this new CCNA Courses
+
+How long will IT Essentials 6.0 be available, when will IT Essentials 7.0 be available?
