@@ -377,10 +377,17 @@ https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 
 # Hyperlinks and Thoughts for Course Revisions
 
+Email to new ASC (Mark from Calgary ASC)
+- Instructions to change ASC: https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/phlandry/FMfcgxvzKbTbLfxzTPmkwgPsrmGBdmxJ
+
 Link from Gerald: https://docs.google.com/document/d/1g7jRLbdv7Hc6KblVsgllg6FfGhMAcfKlhYynjqreNm0/edit?ts=5d07dc42
 
 Link to Course Resources: https://www.netacad.com/group/resources
 - https://www.netacad.com/courses/all-courses
+- <a href="https://www.netacad.com/group/resources/launch?mkt_tok=eyJpIjoiTldaaFpUYzFOVFJrT1RGaiIsInQiOiI3WUVcL0JRb1d0RllNaFpHUWlMZFNFVlFpUGpVK0owMkxFcTNYOWhcLzNLVTVtSjFFNmdQUHZXeXVWa05VK1J6NXlEZGYwaGR3TzVJVmR3NmE0d1E4RVwvSG9aSU55SlpySklPWVRYVFpnb1ZGTk1ERWRSeGcwdks1MkREMDR1K1hXNiJ9">
+Landing Page</a>
+- <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/take-learning-to-next-level.html?mkt_tok=eyJpIjoiTldaaFpUYzFOVFJrT1RGaiIsInQiOiI3WUVcL0JRb1d0RllNaFpHUWlMZFNFVlFpUGpVK0owMkxFcTNYOWhcLzNLVTVtSjFFNmdQUHZXeXVWa05VK1J6NXlEZGYwaGR3TzVJVmR3NmE0d1E4RVwvSG9aSU55SlpySklPWVRYVFpnb1ZGTk1ERWRSeGcwdks1MkREMDR1K1hXNiJ9#~stickynav=5">
+Learning Page</a>
 
 New CCNA Course Information: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
 - URL Link to Introduction to, https://www.netacad.com/courses/security
@@ -390,6 +397,21 @@ New CCNA Course Information: https://www.cisco.com/c/en/us/training-events/train
     - https://www.netacad.com/group/resources/cybersecurity-essentials/1.0
   - CCNA Cybersecurity Operations
   - CCNA Security
+
+Idea: no one will get the CCNA Course done and we will only do certain chapters
+- might leave window open for two - three years
+
+IT Essentials will change to v7.0
+- When will this happen?
+-
+
+Linux
+- Cent OS
+- Work in VM Ware environment
+- NGN Linux Unhatched
+- Partner: NDG Linux Essentials (Cyber Security 20)
+- NGN Linux 1: requires subscription $30 per student
+
 
 Big Data and Analytics, self-enroll links (<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/phlandry/FMfcgxmZTvVCnwnNMbnHtqcFbLnmTnfm">
 email link</a>)
