@@ -377,6 +377,23 @@ https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 
 # Hyperlinks and Thoughts for Course Revisions
 
-Link from Gerald:
+Link from Gerald: https://docs.google.com/document/d/1g7jRLbdv7Hc6KblVsgllg6FfGhMAcfKlhYynjqreNm0/edit?ts=5d07dc42
+
+New CCNA Course Information: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
+- URL Link to Introduction to, https://www.netacad.com/courses/security
+  - Introduction to Cybersecurity
+  - Cybersecurity Essentials, cool labs
+  - CCNA Cybersecurity Operations
+  - CCNA Security
+
+Mickey has explored Netacad Features, rubrics
 
 ---
+
+Campus EPSB has prepared students for stepping into CCNA with certifications in Introduction to Cyber Security & Cybersecurity Essentials
+CCNA Introduction to Switching has a variety of Labs and Packet Tracers and my classroom has a donation of 40+ switches and another 20 that need updating
+Will I still be able to access this course and help students step into the new CCNA Course
+I also have a donation of 10+ Cisco Routers. Will I still have access  to the CCNA Routing and Switching Course to help students to step into CCNA?
+Will I have access to teach the new CCNA course? Honestly, I do not believe I will have enough time given all the certifications being combined. But, high school students can become familiar and, more importantly, perform better with study of specific topics
+
+How will the following three courses integrate themselves into this new CCNA Courses
