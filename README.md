@@ -338,7 +338,6 @@ Solving support tickets based ITE Labs and ItN PKAs
 Use VM Ware and create snapshots that students need to fix
 Grading material?
 
-
 Networking competition
 Must do things from memory
 What is the list?
@@ -380,7 +379,9 @@ https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 Email to new ASC (Mark from Calgary ASC)
 - Instructions to change ASC: https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/phlandry/FMfcgxvzKbTbLfxzTPmkwgPsrmGBdmxJ
 
-Link from Gerald: https://docs.google.com/document/d/1g7jRLbdv7Hc6KblVsgllg6FfGhMAcfKlhYynjqreNm0/edit?ts=5d07dc42
+Link from Gerald for Alberta Ed course outlines: https://docs.google.com/document/d/1g7jRLbdv7Hc6KblVsgllg6FfGhMAcfKlhYynjqreNm0/edit?ts=5d07dc42
+- Courses needed for Skills Alberta Cananda, listed 2019
+- NET 2020, 2030, 2040, 2060, 2070, 3050, 3070, 3090, 3100
 
 Link to Course Resources: https://www.netacad.com/group/resources
 - https://www.netacad.com/courses/all-courses
@@ -391,10 +392,8 @@ Learning Page</a>
 
 New CCNA Course Information: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
 - URL Link to Introduction to, https://www.netacad.com/courses/security
-  - Introduction to Cybersecurity (2.1?)
-    - https://www.netacad.com/group/resources/cybersecurity/2.1
-  - Cybersecurity Essentials, cool labs
-    - https://www.netacad.com/group/resources/cybersecurity-essentials/1.0
+  - Introduction to Cybersecurity (2.1?): https://www.netacad.com/group/resources/cybersecurity/2.1
+  - Cybersecurity Essentials, cool labs: https://www.netacad.com/group/resources/cybersecurity-essentials/1.0
   - CCNA Cybersecurity Operations
   - CCNA Security
 
@@ -403,7 +402,6 @@ Idea: no one will get the CCNA Course done and we will only do certain chapters
 
 IT Essentials will change to v7.0
 - When will this happen?
--
 
 Linux
 - Cent OS
@@ -422,14 +420,12 @@ Python Course in Grade 11 CS: https://www.netacad.com/group/resources/programmin
 
 Mickey has explored Netacad Features, rubrics
 
+Other Questions
+- Campus EPSB has prepared students for stepping into CCNA with certifications in Introduction to Cyber Security & Cybersecurity Essentials, what happens next
+- CCNA Introduction to Switching has a variety of Labs and Packet Tracers and my classroom has a donation of 40+ switches and another 20 that need updating, Will I still be able to access this course and help students step into the new CCNA Course
+- I also have a donation of 10+ Cisco Routers. Will I still have access  to the CCNA Routing and Switching Course to help students to step into CCNA?
+- Will I have access to teach the new CCNA course? Honestly, I do not believe I will have enough time given all the certifications being combined. But, high school students can become familiar and, more importantly, perform better with study of specific topics
+- How will the following three courses integrate themselves into this new CCNA Courses
+- How long will IT Essentials 6.0 be available, when will IT Essentials 7.0 be available?
+
 ---
-
-Campus EPSB has prepared students for stepping into CCNA with certifications in Introduction to Cyber Security & Cybersecurity Essentials
-CCNA Introduction to Switching has a variety of Labs and Packet Tracers and my classroom has a donation of 40+ switches and another 20 that need updating
-Will I still be able to access this course and help students step into the new CCNA Course
-I also have a donation of 10+ Cisco Routers. Will I still have access  to the CCNA Routing and Switching Course to help students to step into CCNA?
-Will I have access to teach the new CCNA course? Honestly, I do not believe I will have enough time given all the certifications being combined. But, high school students can become familiar and, more importantly, perform better with study of specific topics
-
-How will the following three courses integrate themselves into this new CCNA Courses
-
-How long will IT Essentials 6.0 be available, when will IT Essentials 7.0 be available?
