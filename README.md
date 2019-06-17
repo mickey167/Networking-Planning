@@ -374,3 +374,9 @@ https://www.eccouncil.org/
 https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 
 ---
+
+# Hyperlinks and Thoughts for Course Revisions
+
+Link from Gerald:
+
+---
