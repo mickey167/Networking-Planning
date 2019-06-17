@@ -1,6 +1,8 @@
 # Networking Planning
 Text Documents and Supporting Documents to begin to imagine classroom experiences and projects-based learning.
 
+Current Updates for Courses, <a href="">to be done first</a>
+
 Table of Contents
 - <a href="https://github.com/MercersKitchen/Networking-Planning#grading-notes-and-projects">Grading Notes and Projects</a>
   - <a href="https://github.com/MercersKitchen/Networking-Planning#networking-practicum">Networking Practicum</a>
