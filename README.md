@@ -388,10 +388,8 @@ Link from Gerald for Alberta Ed course outlines: https://docs.google.com/documen
 
 Link to Course Resources: https://www.netacad.com/group/resources
 - https://www.netacad.com/courses/all-courses
-- <a href="https://www.netacad.com/group/resources/launch?mkt_tok=eyJpIjoiTldaaFpUYzFOVFJrT1RGaiIsInQiOiI3WUVcL0JRb1d0RllNaFpHUWlMZFNFVlFpUGpVK0owMkxFcTNYOWhcLzNLVTVtSjFFNmdQUHZXeXVWa05VK1J6NXlEZGYwaGR3TzVJVmR3NmE0d1E4RVwvSG9aSU55SlpySklPWVRYVFpnb1ZGTk1ERWRSeGcwdks1MkREMDR1K1hXNiJ9">
-Landing Page</a>
-- <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/take-learning-to-next-level.html?mkt_tok=eyJpIjoiTldaaFpUYzFOVFJrT1RGaiIsInQiOiI3WUVcL0JRb1d0RllNaFpHUWlMZFNFVlFpUGpVK0owMkxFcTNYOWhcLzNLVTVtSjFFNmdQUHZXeXVWa05VK1J6NXlEZGYwaGR3TzVJVmR3NmE0d1E4RVwvSG9aSU55SlpySklPWVRYVFpnb1ZGTk1ERWRSeGcwdks1MkREMDR1K1hXNiJ9#~stickynav=5">
-Learning Page</a>
+- <a href="https://www.netacad.com/group/resources/launch?mkt_tok=eyJpIjoiTldaaFpUYzFOVFJrT1RGaiIsInQiOiI3WUVcL0JRb1d0RllNaFpHUWlMZFNFVlFpUGpVK0owMkxFcTNYOWhcLzNLVTVtSjFFNmdQUHZXeXVWa05VK1J6NXlEZGYwaGR3TzVJVmR3NmE0d1E4RVwvSG9aSU55SlpySklPWVRYVFpnb1ZGTk1ERWRSeGcwdks1MkREMDR1K1hXNiJ9">Landing Page</a>
+- <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/take-learning-to-next-level.html?mkt_tok=eyJpIjoiTldaaFpUYzFOVFJrT1RGaiIsInQiOiI3WUVcL0JRb1d0RllNaFpHUWlMZFNFVlFpUGpVK0owMkxFcTNYOWhcLzNLVTVtSjFFNmdQUHZXeXVWa05VK1J6NXlEZGYwaGR3TzVJVmR3NmE0d1E4RVwvSG9aSU55SlpySklPWVRYVFpnb1ZGTk1ERWRSeGcwdks1MkREMDR1K1hXNiJ9#~stickynav=5">Learning Page</a>
 
 New CCNA Course Information: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
 - URL Link to Introduction to, https://www.netacad.com/courses/security
