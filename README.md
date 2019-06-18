@@ -380,53 +380,50 @@ https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 # Hyperlinks and Thoughts for Course Revisions
 
 Email to new ASC (Mark from Calgary ASC)
-- Instructions to change ASC: https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/phlandry/FMfcgxvzKbTbLfxzTPmkwgPsrmGBdmxJ
+- Instructions to change ASC, Search email "New Academy Support Center in Alberta": https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/phlandry/FMfcgxvzKbTbLfxzTPmkwgPsrmGBdmxJ
 
 Link from Gerald for Alberta Ed course outlines: https://docs.google.com/document/d/1g7jRLbdv7Hc6KblVsgllg6FfGhMAcfKlhYynjqreNm0/edit?ts=5d07dc42
 - Courses needed for Skills Alberta Canada, listed 2019
 - NET 2020, 2030, 2040, 2060, 2070, 3050, 3070, 3090, 3100
 
-Link to Course Resources: https://www.netacad.com/group/resources
+Overall Outline, a starting point
+1. Cyber Security Introduction: URL Link to Introduction to, https://www.netacad.com/courses/security
+   - Introduction to Cybersecurity: https://www.netacad.com/group/resources/cybersecurity/2.1
+2. Cybersecurity Essentials, featuring very nice labs: https://www.netacad.com/group/resources/cybersecurity-essentials/1.0
+3. IT Essentials, v7.0 (Last writing of A+ IT Essentials v6 is July 2019), see "Instructor Home" in Left Hand Picker for more resources
+   - https://learningnetwork.cisco.com/community/learning_center
+   - https://www.netacad.com/documents/369730027/785989260/ITE+v7.0+Scope+and+Sequence_Feb_22.pdf/cf9832e3-29d3-4022-923c-b8efcae51f62
+   - Ending in CompTIA A+ Exam writing through J Percy Page Pearsonview Exam Testing Centre
+   - Mickey has explored Netacad Features, i.e. rubrics
+4. Maintaining switching and routing hand skills and basic concepts (intended as a stepping stone to post-secondary, NAIT, etc.)
+   - Binary Game: https://learningnetwork.cisco.com/docs/DOC-1803
+   - CCNA1, Introduction to Switching:
+     - Downloadable Course RPi-LAMP Hosted
+     - Emerging Technologies Workshop: https://www.netacad.com/group/resources/emerging-tech-workshops/1.0
+     - Mobility Fundamentals: https://www.netacad.com/group/resources/mobility-fundamentals/1.0
+
+
+Linux, Do VM Ware Installation First (Lab)
+- NDG Linux Unhatched, 8 Hours: https://www.netacad.com/courses/os-it/ndg-linux-unhatched
+- Partner: NDG Linux Essentials (Cyber Security 20): https://www.netacad.com/courses/os-it/ndg-linux-essentials
+- NDG Linux I (base cost $30): https://www.netacad.com/courses/os-it/ndg-linux-I
+- CompTIA Linux+: https://certification.comptia.org/certifications/linux
+- Cent OS, LUbuntu,
+
+New CCNA Course Information: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
+- 3 semester course from 4 semester course
+- What will a high school experience look like?
+- How will CCENT Certification affect my access of this new CCNA course
+
+Other Resources
+- Link to Course Resources: https://www.netacad.com/group/resources
 - https://www.netacad.com/courses/all-courses
 - <a href="https://www.netacad.com/group/resources/launch?mkt_tok=eyJpIjoiTldaaFpUYzFOVFJrT1RGaiIsInQiOiI3WUVcL0JRb1d0RllNaFpHUWlMZFNFVlFpUGpVK0owMkxFcTNYOWhcLzNLVTVtSjFFNmdQUHZXeXVWa05VK1J6NXlEZGYwaGR3TzVJVmR3NmE0d1E4RVwvSG9aSU55SlpySklPWVRYVFpnb1ZGTk1ERWRSeGcwdks1MkREMDR1K1hXNiJ9">Landing Page</a>
 - <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/take-learning-to-next-level.html?mkt_tok=eyJpIjoiTldaaFpUYzFOVFJrT1RGaiIsInQiOiI3WUVcL0JRb1d0RllNaFpHUWlMZFNFVlFpUGpVK0owMkxFcTNYOWhcLzNLVTVtSjFFNmdQUHZXeXVWa05VK1J6NXlEZGYwaGR3TzVJVmR3NmE0d1E4RVwvSG9aSU55SlpySklPWVRYVFpnb1ZGTk1ERWRSeGcwdks1MkREMDR1K1hXNiJ9#~stickynav=5">Learning Page</a>
 
-New CCNA Course Information: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
-- URL Link to Introduction to, https://www.netacad.com/courses/security
-  - Introduction to Cybersecurity (2.1?): https://www.netacad.com/group/resources/cybersecurity/2.1
-  - Cybersecurity Essentials, cool labs: https://www.netacad.com/group/resources/cybersecurity-essentials/1.0
-  - CCNA Cybersecurity Operations
-  - CCNA Security
-
-Idea: no one will get the CCNA Course done and we will only do certain chapters
-- might leave window open for two - three years
-
-IT Essentials will change to v7.0
-- When will this happen?
-
-Linux
-- Cent OS
-- Work in VM Ware environment
-- NGN Linux Unhatched
-- Partner: NDG Linux Essentials (Cyber Security 20)
-- NGN Linux 1: requires subscription $30 per student
-
-
-Big Data and Analytics, self-enroll links (<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/phlandry/FMfcgxmZTvVCnwnNMbnHtqcFbLnmTnfm">
+Other Topics to Explore
+- Big Data and Analytics, self-enroll links (<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/phlandry/FMfcgxmZTvVCnwnNMbnHtqcFbLnmTnfm">
 email link</a>)
   - Cisco Instructor Training for Big Data & Analytics 2.01: https://1040239.netacad.com/enroll/63AFER
   - Cisco Instructor Training for Connecting Things 2.01: https://1040239.netacad.com/enroll/9CLCM8
-
-Python Course in Grade 11 CS: https://www.netacad.com/group/resources/programming-python/1.0
-
-Mickey has explored Netacad Features, rubrics
-
-Other Questions
-- Campus EPSB has prepared students for stepping into CCNA with certifications in Introduction to Cyber Security & Cybersecurity Essentials, what happens next
-- CCNA Introduction to Switching has a variety of Labs and Packet Tracers and my classroom has a donation of 40+ switches and another 20 that need updating, Will I still be able to access this course and help students step into the new CCNA Course
-- I also have a donation of 10+ Cisco Routers. Will I still have access  to the CCNA Routing and Switching Course to help students to step into CCNA?
-- Will I have access to teach the new CCNA course? Honestly, I do not believe I will have enough time given all the certifications being combined. But, high school students can become familiar and, more importantly, perform better with study of specific topics
-- How will the following three courses integrate themselves into this new CCNA Courses
-- How long will IT Essentials 6.0 be available, when will IT Essentials 7.0 be available?
-
----
+- Python Course in Grade 11 CS: https://www.netacad.com/group/resources/programming-python/1.0
