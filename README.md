@@ -401,7 +401,10 @@ Overall Outline, a starting point
      - Downloadable Course RPi-LAMP Hosted
      - Emerging Technologies Workshop: https://www.netacad.com/group/resources/emerging-tech-workshops/1.0
      - Mobility Fundamentals: https://www.netacad.com/group/resources/mobility-fundamentals/1.0
-
+5. RPi Projects as a Summary of Curriculum, on the same card
+   - Wireguard Project: https://github.com/QEHS-Networking/WireGuard-on-RPi
+   - [Optional] https://www.home-assistant.io/
+   - [Optoinal] LAMP Server
 
 Linux, Do VM Ware Installation First (Lab)
 - NDG Linux Unhatched, 8 Hours: https://www.netacad.com/courses/os-it/ndg-linux-unhatched
