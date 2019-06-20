@@ -430,3 +430,80 @@ email link</a>)
   - Cisco Instructor Training for Big Data & Analytics 2.01: https://1040239.netacad.com/enroll/63AFER
   - Cisco Instructor Training for Connecting Things 2.01: https://1040239.netacad.com/enroll/9CLCM8
 - Python Course in Grade 11 CS: https://www.netacad.com/group/resources/programming-python/1.0
+
+---
+
+## Example Outline
+
+### Introduction to Cybersecurity
+- Vocabulary, Topics, Tasks, and Activities
+
+#### Chapter 0: Welcome to the Student
+- Overview and Activities: <a href="https://static-course-assets.s3.amazonaws.com/CyberSec2.1/en/course/files/IntroCybersecurity%20-%20Additional%20Resources%20and%20Activities.pdf">
+Introduction to Cybersecurity</a>, or see Download "Introduction to Cybersecurity, Additional Resources and Activities"
+  - Complete as a gallery walk, do these as a teacher first to see their applicability
+- Course Overview
+
+#### Chapter 1: The need for Cybersecurity
+- Types of Data you have & do you have ownership of it
+- How have you given permissions to others for your data
+- Example of Hashing & Checksums
+  - See Lab: 1.2.1.3 Lab - Compare Data with a Hash.pdf, <a href="https://static-course-assets.s3.amazonaws.com/CyberSec2.1/en/course/files/1.2.1.3%20Lab%20-%20Compare%20Data%20with%20a%20Hash.pdf">
+  here</a>
+- Victims and Reasons why data breaches are criminal, (i.e. Denial of Service Attacks)
+  - Optional Lab: 1.2.2.5 "What was taken" (Fill in the Chart)
+- Attackers and Cyber Professionals
+- Cyberwarefare
+  - Video: 1.4.1.1, includes transcript
+  - Second Video: Stuxnet: Anatomy of a Computer Virus (https://vimeo.com/25118844)
+
+Supplementary Exploration: KeePass vs. Last Pass
+
+#### Chapter 2: Attacks, Concepts and Techniques
+- Google's Project Zero: who is responsible for safety on the Internet?
+- Types of Security Vulnerabilities
+  - Activity: Identify Vulnerability Terminology
+- Types, Symptoms of Malware with an example of Red Worm
+  - Activity: Identify Malware Types
+- Social Engineering as an Attack
+- WiFi Password Cracking (Wireshark, Packet Tracer, or capturing WiFi Radio Waves - Kali Linux)
+  - Example Brute Force Tools (researchable): Ophcrack, L0phtCrack, THC Hydra, RainbowCrack, and Medusa
+- Explored Attacks (Illustrations in online text): Phishing, Vulnerability Exploitation, Denial of Service (DoS), Distributed DoS (DDoS), Search Engine Optimization Poisoning (SEO Poisoning)
+  - Activity: Identify the Attack Type
+- Blended Attacks & Impact Reduction
+
+#### Chapter 3: Protecting Your Data and Privacy
+- Chapter Introduction or Conclusion Activity, Discover Your Own Risky Online Behavior
+  - See Lab 3.2.2.3 - Discover Your Own Risky Online Behavior
+- Firewall, Updates, Browsers, and Passwords (remember KeePass & Last Pass)
+  - Have I been POwned
+- Wireless Networks, free networks (reason we have Wireguard and RPi-based VPN), and Bluetooth
+  - KRACK <a href="https://www.krackattacks.com/">Explanation</a> & <a href="https://www.fcc.gov/consumers/guides/how-protect-yourself-online">WiFi Security Tips</a>
+- Passwords, Passphrases, and using generators (i.e. KeePass or Last Pass)
+  - See Lab 3.1.1.5 – Create and Store Strong Passwords, <a href="https://static-course-assets.s3.amazonaws.com/CyberSec2.1/en/course/files/3.1.1.5%20Lab%20-%20Create%20and%20Store%20Strong%20Passwords.pdf">here</a>
+- Encrypt your data & data backup (Local Hard Drives, External Hard Drives, and Cloud Storage like Google Drive or GitHub)
+  - CAUTION: never use a USB Key for data backup (a physical device for $10 does not last long)
+- Deleting your data, especially social media
+  - Answer "How do you delete social media data permanently?"
+    - Pick your favorite social media provider
+    - Is it possible to delete permanently
+    - Write steps for it to be done
+  - Use ```Lab 3.1.2.5 - Who Owns Your Data?``` for help and ideas
+- Two Factor Authentication & <a href="https://twofactorauth.org/">Exploring Who Supports it</a>
+- Exploring (through online textbook): OAuth
+- Additional Information and Tips
+
+#### Chapter 4: Protecting the Organization
+- Types of Firewalls & Identification Activity
+- NMAP Port Scanning (Ports are half a socket: IP Address "door" into computer and Port "door" into program)
+  - Can you see me (for port forwarding), https://canyouseeme.org/
+  - NMAP Online Port Scanner for 6 common ports (these ports must be memorized)
+    - https://hackertarget.com/nmap-online-port-scanner/
+  - Activity to ID Port Scan Response
+- Security Appliances & Identification Activity (note: all appliances could be made with RPi)
+- Best Practices Summary
+- Exploration (online textbook): BOTNET, Cyber Kill Chain & Activity, Behavior-based Security & Honeypots, NetFlow, CSIRT Organizations
+- Tools for Incident Prevention and Detection Video & Transcript (4.3.3.1)
+- Activity: Summary of Terminology
+
+#### Chapter 5: Cybersecurity's Future
